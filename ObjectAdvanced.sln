@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectAdvanced", "ObjectAdvanced\ObjectAdvanced.csproj", "{4061E7D3-83A0-4775-8C50-97F9ECA3273D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectAdvanced", "ObjectAdvanced\ObjectAdvanced.csproj", "{4061E7D3-83A0-4775-8C50-97F9ECA3273D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{3175F672-B0C5-4AD7-9887-58F8EA85E3E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{3175F672-B0C5-4AD7-9887-58F8EA85E3E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{AEA67535-55A1-4EE2-A858-F35845619B44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3175F672-B0C5-4AD7-9887-58F8EA85E3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3175F672-B0C5-4AD7-9887-58F8EA85E3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3175F672-B0C5-4AD7-9887-58F8EA85E3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA67535-55A1-4EE2-A858-F35845619B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA67535-55A1-4EE2-A858-F35845619B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA67535-55A1-4EE2-A858-F35845619B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA67535-55A1-4EE2-A858-F35845619B44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
